@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hola, soy Ángel 👋
 
-<!--
-**Angeldaaw/Angeldaaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack de México.
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- .NET 8
+- ASP.NET Core
+- Vue.js
+- SQL Server
+- MongoDB
+- Git
+- Appian
+
+## Proyectos Destacados
+
+### Chatee
+Aplicación de chat en tiempo real desarrollada con .NET 8, Vue.js y MongoDB.
+
+### MiRenta
+Sistema de gestión de rentas con backend en .NET y frontend web.
+
+## Actualmente
+
+- Mejorando mis habilidades en arquitectura de software.
+- Desarrollando proyectos Full Stack.
+- Aprendiendo mejores prácticas de desarrollo.
+
+## Contacto
+
+- GitHub: @Angeldaaw
+- Email: luis.angel.garcia.aceves@gmail.com
