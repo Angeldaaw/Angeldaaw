@@ -6,7 +6,9 @@ Desarrollador Full Stack de México.
 
 - .NET 8
 - ASP.NET Core
-- Vue.js
+- Next.js
+- React
+- Typescript  
 - SQL Server
 - MongoDB
 - Git
